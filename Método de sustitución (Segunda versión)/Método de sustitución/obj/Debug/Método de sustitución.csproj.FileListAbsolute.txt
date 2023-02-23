@@ -1,0 +1,91 @@
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.exe
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.pdb
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.exe
+C:\Users\Antonio\Desktop\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.pdb
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.exe
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.pdb
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.exe
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.pdb
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.exe
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.pdb
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.exe
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.pdb
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
+D:\Este equipo\ARVIOJ\Método de sustitución\Método de sustitución\bin\Debug\MaterialSkin.dll
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.exe
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.pdb
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.exe
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\bin\Debug\Método de sustitución.pdb
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\bin\Debug\MaterialSkin.dll
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\obj\Debug\Método de sustitución.exe
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\obj\Debug\Método de sustitución.pdb
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\bin\Debug\Método de sustitución.exe
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\bin\Debug\Método de sustitución.pdb
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución2\Método de sustitución\bin\Debug\MaterialSkin.dll
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.exe
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.pdb
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.pdb
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\MaterialSkin.dll
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+E:\Documentos\UAEH\Semestre 5\Métodos numéricos\Programas\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
+D:\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+D:\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.exe
+D:\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.pdb
+D:\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe
+D:\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.pdb
+D:\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\MaterialSkin.dll
+D:\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+D:\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+D:\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+D:\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.exe
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.pdb
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.pdb
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\MaterialSkin.dll
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
+C:\Users\arvio\OneDrive\Escritorio\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+D:\5toSemestre\Personal\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+D:\5toSemestre\Personal\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.exe
+D:\5toSemestre\Personal\Método de sustitución (Segunda versión)\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe.config
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.exe
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.exe
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\Método de sustitución.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\bin\Debug\MaterialSkin.dll
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.csprojResolveAssemblyReference.cache
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método_de_sustitución.Form1.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método_de_sustitución.Properties.Resources.resources
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\Método de sustitución (Segunda versión)\Método de sustitución\obj\Debug\Método de sustitución.csproj.GenerateResource.Cache
